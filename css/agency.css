@@ -78,6 +78,10 @@ section h3.section-subheading {
   font-size: 90%;
 }
 
+#payPal-form {
+  display: inline-block;
+}
+
 .btn {
   font-family: 'Soleil',sans-serif;
   font-weight: 400;
